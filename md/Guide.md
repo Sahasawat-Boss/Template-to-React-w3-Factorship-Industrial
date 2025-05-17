@@ -1,17 +1,24 @@
 # Guidance
 
-## 1. Using React-Vite JS
+## Setup --------
 
-## 2. Create Pages folder and same Page like a html file
+1. Using React-Vite JS
 
-## 3. Install React Router `npm i react-router-dom`
+2. Create Pages folder and same Page like a html file
 
-## 4. Empty App.js File and Create a new rafce
+3. Install React Router `npm i react-router-dom`
 
-## 5. Import pages components in App.js
+4. Empty App.js File and Create a new rafce
 
-## 6. Import `import { BrowserRouter, Routes, Route } from 'react-router-dom'` in App.js
+5. Import pages components in App.js
 
-## 7. Return Statement >> setup Routes each components
+6. Import `import { BrowserRouter, Routes, Route } from 'react-router-dom'` in App.js
 
-## 8. Rename Index file and Component to Home
+7. Return Statement >> setup Routes each components
+
+8. Rename Index file and Component to Home
+
+## Migration ----
+
+1. Migrate all Template to React Application
+
