@@ -32,4 +32,6 @@
 
 6. Start Copy each Section of Template to React pages
 
-.......
+7. Create Component Folder >> Create each Comps
+
+8. Add Comps to App.js
