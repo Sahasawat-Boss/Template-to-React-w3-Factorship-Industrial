@@ -13,3 +13,5 @@
 ## 6. Import `import { BrowserRouter, Routes, Route } from 'react-router-dom'` in App.js
 
 ## 7. Return Statement >> setup Routes each components
+
+## 8. Rename Index file and Component to Home
