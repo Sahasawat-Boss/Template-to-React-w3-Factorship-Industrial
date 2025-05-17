@@ -22,3 +22,14 @@
 
 1. Migrate all Template to React Application
 
+2. Copy files from assets folder to src/assets
+
+3. Copy <Head> Section from Index Template to Index.js in React App
+
+4. Modify the Link like CSS path to react CSS
+
+5. Copy JS script and paste in Index.js in React App //<---Failed
+
+6. Start Copy each Section of Template to React pages
+
+.......
